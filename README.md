@@ -1,5 +1,5 @@
 This is the README file for the Hello-world project.
 
-I'M Bob.
+my name is bob
 
-My age is 20.
+my age is 20
